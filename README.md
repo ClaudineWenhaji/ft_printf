@@ -1,2 +1,2 @@
 # ft_printf
-This project aims to code the printf() function from libc
+The goal of this project is to replicate the printf function: a command to display a formatted string on the screen. 
