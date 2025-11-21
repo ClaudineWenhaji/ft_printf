@@ -18,3 +18,9 @@ va_list    any_name_you_want;
 
 // we will call it args for the next example:
 va_list    args;
+
+va_start( va_list var, parameterN );
+
+* var is a variable of type arg_list (args for us)
+
+* parameterN is the named parameter preceding the first dynamic parameter - in other words, it's the mandatory argument
